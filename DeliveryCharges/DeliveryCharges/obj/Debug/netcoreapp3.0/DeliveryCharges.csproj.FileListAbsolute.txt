@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\bin\Debug\netcoreapp3.0\DeliveryCharges.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\bin\Debug\netcoreapp3.0\DeliveryCharges.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\bin\Debug\netcoreapp3.0\DeliveryCharges.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\bin\Debug\netcoreapp3.0\DeliveryCharges.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\bin\Debug\netcoreapp3.0\DeliveryCharges.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\bin\Debug\netcoreapp3.0\DeliveryCharges.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\obj\Debug\netcoreapp3.0\DeliveryCharges.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\obj\Debug\netcoreapp3.0\DeliveryCharges.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\obj\Debug\netcoreapp3.0\DeliveryCharges.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\obj\Debug\netcoreapp3.0\DeliveryCharges.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\DeliveryCharges\DeliveryCharges\obj\Debug\netcoreapp3.0\DeliveryCharges.pdb

@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.0\ArrayDemo.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.0\ArrayDemo.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.0\ArrayDemo.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.0\ArrayDemo.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.0\ArrayDemo.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.0\ArrayDemo.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.0\ArrayDemo.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.0\ArrayDemo.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.0\ArrayDemo.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.0\ArrayDemo.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.0\ArrayDemo.pdb

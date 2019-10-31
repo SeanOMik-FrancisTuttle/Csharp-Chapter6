@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\bin\Debug\netcoreapp3.0\ChatAWhile.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\bin\Debug\netcoreapp3.0\ChatAWhile.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\bin\Debug\netcoreapp3.0\ChatAWhile.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\bin\Debug\netcoreapp3.0\ChatAWhile.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\bin\Debug\netcoreapp3.0\ChatAWhile.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\bin\Debug\netcoreapp3.0\ChatAWhile.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\obj\Debug\netcoreapp3.0\ChatAWhile.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\obj\Debug\netcoreapp3.0\ChatAWhile.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\obj\Debug\netcoreapp3.0\ChatAWhile.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\obj\Debug\netcoreapp3.0\ChatAWhile.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\ChatAWhile\ChatAWhile\obj\Debug\netcoreapp3.0\ChatAWhile.pdb

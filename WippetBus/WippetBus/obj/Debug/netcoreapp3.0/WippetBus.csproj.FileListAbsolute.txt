@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\obj\Debug\netcoreapp3.0\WippetBus.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\obj\Debug\netcoreapp3.0\WippetBus.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\obj\Debug\netcoreapp3.0\WippetBus.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\bin\Debug\netcoreapp3.0\WippetBus.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\bin\Debug\netcoreapp3.0\WippetBus.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\bin\Debug\netcoreapp3.0\WippetBus.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\bin\Debug\netcoreapp3.0\WippetBus.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\bin\Debug\netcoreapp3.0\WippetBus.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\bin\Debug\netcoreapp3.0\WippetBus.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\obj\Debug\netcoreapp3.0\WippetBus.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter6\WippetBus\WippetBus\obj\Debug\netcoreapp3.0\WippetBus.pdb
